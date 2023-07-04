@@ -7,6 +7,13 @@
 
 <br />
 
+## WEB-UI：
+
+![image](https://github.com/ChangSZ/share_folder/assets/26893331/57065eff-f953-4293-9be1-f7a65d9ac021)
+
+---
+<br />
+
 ## 使用方法：
 1. 设置共享文件夹路径
 ```python
